@@ -1,1 +1,1 @@
-# smallworldapp2
+# Small World - Selling Made Simple
